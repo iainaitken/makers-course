@@ -2,7 +2,7 @@
 
 ---
 
-| [Intro](#introduction) | [Goals](#goals) | [Projects](#projects) |
+| [Intro](#introduction) | [Goals](#goals) | [Projects](#projects) | [Skills](#skills) |
 
 ---
 
