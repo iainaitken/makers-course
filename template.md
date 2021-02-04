@@ -11,6 +11,7 @@
 ### Goals for the week/day
 
 [Reflective Learning](https://github.com/makersacademy/course/blob/master/goals/reflective_learning.md)
+[Progress](https://github.com/makersacademy/course/blob/master/goals/progress_insight.md)
 [SMART Goals](https://docs.google.com/document/d/1Tcw_8OuOSXArP8Wr7X1jywWDV8NW_LzYmFawUCBYIZ8/edit)
 
 text
