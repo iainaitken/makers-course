@@ -65,7 +65,7 @@ DRY/SRP - Q. is it ok to have a line of code twice or should that be a method?
 
 A. normally, create a method unless the lines do very different things in different contexts.
 
-#### Peer Group 
+#### Peer Group
 
 Explained encapsulation - general feedback was that it was a decent explanation of the basics and a good foundation for people to build on.
 
@@ -80,6 +80,8 @@ RSpec - don't worry about syntax at the moment, work with whatever is most reada
 #### Pair Programming
 
 ##### Notes
+
+Pairing with Sandy.
 
 Nested blocks - helps organise tests.
 
@@ -97,4 +99,17 @@ Context - just a header but will display in a different colour
 
 ### Reflection
 
-text
+Today went well, but it did highlight some gaps in my knowledge and I didn't get to complete the boris bikes challenge. In particular, I need to improve my rspec skills, particularly writing clean tests and setting out tests using rspec conventions. I also need to work on using ruby modules. 
+
+Pairing went well this afternoon - feedback included:
+
+Things I did well:
+
+> - I like that you pushed me to try things and not assume anything,
+> - You gave me time to understand the concepts and discuss your understanding of them with me
+> - You taught me a new RSpec marker (.to change { })
+> - I really enjoyed pairing with you
+
+Things to improve:
+
+> To be honest I want to navigate the way you do, I have nothing to change to it :)
