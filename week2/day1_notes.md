@@ -75,11 +75,19 @@ YAGNI - identify code that isn't required. Extra functionality isn't necessarily
 
 [Review hints](https://github.com/makersacademy/course/blob/master/how-to/code-review.md)
 
-Feedback:
+Feedback from Rorie:
 
 * Readable
 * Neat
 * Try to minimise code if possible.
+
+Javier's feedback included the following possible improvements:
+
+* can use an array of weather states and the .sample method to avoid case statements.
+* no more than 3 lines of code in a method
+* use if-else statements if more than one if in a method
+* use described_class for better adaptable code
+* delete spaces you don't need, and irrelevant comments
 
 #### OO Design
 
@@ -95,6 +103,41 @@ This week is an introduction - exposure to new concepts and a framework how to t
 
 Expected to do a Review in week 10, but do one earlier!!
 
+#### Afternoon pairing
+
+Paired with Rorie - learned some tips about rspec, including:
+
+* Can use
+
+```ruby
+expect(subject).to respond_to(:top_up).with(1).argument
+```
+
+* Use of "fail" syntax in place of "raise"
+* Avoid hard-coding the maximum balance - can access a class constant as follows:
+
+```ruby
+Oystercard::MAXIMUM_BALANCE
+```
+
+Also learned to write tests that anticipate future changes to the program. For example, don't write:
+
+```ruby
+expect{ subject.top_up(10) }.to change { card.balance }.from(0).to(10)
+```
+
+Instead use
+
+```ruby
+expect{ subject.top_up(10) }.to change { card.balance }.by 10
+```
+
+In this case, that's because the card has a default balance which might change in the future. Assuming a default balance of 0 will mean the test breaks if the default balance changes.
+
 ---
 
 ### Reflection
+
+Today was very valuable in receiving feedback on my weekend challenge and in practising further TDD and OO programming. In particular, made headway in using all of week 1's skills, and in giving feedback.
+
+Need to properly reflect on last week based on makers learning resources.
