@@ -96,6 +96,8 @@ I have a lot of experience of working with, training, and mentoring others and l
 
 ### Week 1
 
+[Airtable: TDD & Debugging](https://airtable.com/shrIlMSX4PrGxuSfT/tblokmw6yNUO75ge6)
+
 #### I can TDD anything
 
 Practising TDD with the [Boris Bikes](https://github.com/iainaitken/boris_bikes_friday) and [Airport](https://github.com/iainaitken/airport_challenge) challenges.
@@ -152,7 +154,7 @@ __Sandy__
 
 ### Week 2
 
-
+[Airtable: TDD & OOD](https://airtable.com/shrr9VqhGBzPyfa7E/tblokmw6yNUO75ge6)
 
 ### Week 3
 
