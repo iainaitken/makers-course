@@ -26,6 +26,13 @@ By the end of week 2, all developers should be able to:
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 * Review another person's code and give them meaningful feedback
 
+Today, _if I have extra time outside the workshop and pair programming_, I will work on TDD. I will work on some makers TDD practicals:
+
+* [Testing behaviour over testing state](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
+* [Learning by building RSpec](https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md)
+
+My main goal today is to improve TDD/RSpec skills, which I will be able to do either by the above practicals and/or the oystercard challenge in the afternoon.
+
 ---
 
 ### Notes
