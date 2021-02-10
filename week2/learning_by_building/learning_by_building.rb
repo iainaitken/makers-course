@@ -4,10 +4,6 @@ class Expect
   end
 
   def to(comparison)
-    puts "comparison is #{comparison}"
-    puts "comparison.compare(@value) is #{comparison.compare(@value)}."
-    puts "@value is #{@value}"
-
     if comparison.compare(@value) == true
       puts "Test passes! :)"
     else
@@ -22,17 +18,17 @@ class Equal
   end
 
   def compare(value2)
-    puts @value1 == value2
+    @value1 == value2
   end
 end
 
-Expect.new(true).to(Equal.new(true))
+Expect.new(5).to(Equal.new(2+3))
 
-#Expect.new(true).to(Equal.new(false))
+Expect.new(7).to(Equal.new(7))
 
-#Equal.new(true).compare(true)
+Equal.new(true).compare(true)
 
-#Equal.new(true).compare(false)
+Equal.new(true).compare(false)
 
 =begin
 Exercise 3
