@@ -76,4 +76,14 @@ _What could I do better?_
 
 > to be honest I can't really think of anything. except show the cats more!
 
+__10 February - feedback from Ian__
+
+_What did I do well?_
+
+> You were very patient with me and allowed me to work through to a solution by myself (unless I asked).
+
+_What could I do better?_
+
+> Nada - really enjoyed that.  Perhaps explaining what exactly it is the code that you're writing is going to be expected to do, or how exactly the test will work, before executing it.  Otherwise keep it up, people will come out of pairing sessions with you as a better coder!
+
 ### Takeaway
