@@ -66,4 +66,14 @@ _What could I do better?_
 
 > I really can't think of anything to be honest, was a great session!
 
+__9 February - Feedback from Joey__
+
+_What did I do well?_
+
+> Very good communication and constantly talking through your thought process so I always knew why you were doing what you were doing. great attention to detail as well.
+
+_What could I do better?_
+
+> to be honest I can't really think of anything. except show the cats more!
+
 ### Takeaway
