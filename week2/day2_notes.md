@@ -126,8 +126,20 @@ notebook-->user: "list of notes that include tag"
 
 [exercise on github](https://github.com/iainaitken/makers-course/tree/main/week2/testing_behaviour)
 
+#### Pair programming
+
+Paired with Joey
+
+Notes:
+
+* the let method is not invoked unless called by an example
+* can mark tests as pending by placing an 'x' in front of the it statement. This means that specific test will not run when you run the rspec file. Can have advantages over running a single failing test as you see whether your changes break any other tests.
+* alias method - more research required but allows you to hide an attribute?
+
 ---
 
 ### Reflection
 
-text
+Not the best day although I learnt a lot during the pairing session with Joey. The modelling workshop was incredibly useful, and I could put that knowledge into immediate practice in the testing behaviour practical.
+
+Sort of hit my learning goal for today - definitely improved my knowledge of TDD and I am looking forward to properly putting this knowledge into effect in the weekend challenge.
