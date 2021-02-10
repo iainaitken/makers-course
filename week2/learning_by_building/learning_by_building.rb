@@ -22,6 +22,38 @@ class Equal
   end
 end
 
+=begin
+class Include
+  def initialize(value_array)
+    @value_Array = value_array
+  end
+
+  def compare(value)
+    @value_array.include?(value)
+  end
+end
+=end
+
+def expect(value)
+  Expect.new(value)
+end
+
+def eq(value)
+  Equal.new(value)
+end
+
+=begin
+def include(value)
+  Include.new(value)
+end
+
+puts "include test"
+expect([1,2,3]).to include 2
+=end
+
+puts "comparison tests"
+expect(5).to eq 6
+
 Expect.new(5).to(Equal.new(2+3))
 
 Expect.new(7).to(Equal.new(7))
