@@ -86,4 +86,14 @@ _What could I do better?_
 
 > Nada - really enjoyed that.  Perhaps explaining what exactly it is the code that you're writing is going to be expected to do, or how exactly the test will work, before executing it.  Otherwise keep it up, people will come out of pairing sessions with you as a better coder!
 
+__11 February - feedback from Christine__
+
+_What did I do well?_
+
+> Iain did really well in thinking about the bigger picture of what the code is trying to achieve, and subsequently planning what should be written next, how the methods could be extracted and then incorporated into the main class. He was also very patient while I questioned the logic of certain methods and the class we were building.
+
+_What could I do better?_
+
+> In the spirit of TDD, I think we should have stuck to the unit test, red, green, refactor process more. What we seemed to have done may have been the opposite which was code, feature test, unit test. Saying that, I think it has been challenging for us to come up with the appropriate tests for some methods using doubles so we were just doing the best with what we could.
+
 ### Takeaway
