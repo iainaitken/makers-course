@@ -136,25 +136,57 @@ Independently working through the udemy RSpec course and recording progress [her
 
 #### I grow collaboratively
 
-Plenty of opportunities to pair program this week, including outside of the allocated time in the afternoons for this skill. I made an effort to learn how to collaborate on git and try out the driver/navigator style of pair programming.  Feedback for week 1 included:
-
-__Katie__
-
-> Really enjoyed that Iain and learnt so much from you. You're way more advanced with your knowledge and application of it but you brought me along with you and made sure that I was benefitting from the session -  which was really appreciated. You gave clear advice when instructing me as navigator. I also appreciated you suggesting we do the GitHub collaboration session at the start. Enjoyed chatting too - good code/chat balance.
-
-__Sandy__
-
-> I like that you pushed me to try things and not assume anything,
->
-> You gave me time to understand the concepts and discuss your understanding of them with me
->
-> You taught me a new RSpec marker (.to change { })
->
-> I really enjoyed pairing with you
+Plenty of opportunities to pair program this week, including outside of the allocated time in the afternoons for this skill. I made an effort to learn how to collaborate on git and try out the driver/navigator style of pair programming.  See the [feedback document](https://github.com/iainaitken/makers-course/blob/main/feedback.md) for feedback received during this week.
 
 ### Week 2
 
 [Airtable: TDD & OOD](https://airtable.com/shrr9VqhGBzPyfa7E/tblokmw6yNUO75ge6)
+
+#### 1. I can make anything
+
+##### 1.1 I can TDD anything
+
+Practised with the oystercard task throughout the week, and finished with [takeaway](https://github.com/iainaitken/takeaway-challenge).
+
+##### 1.2 I can program fluently
+
+Becoming much more fluent with programming, as shown by [takeaway](https://github.com/iainaitken/takeaway-challenge). Using more advanced OO and TDD principles such as dependency injection, encapsulation and mocking.
+
+##### 1.3 I can debug anything
+
+Extensive debugging practice throughout the week with oystercard and [takeaway](https://github.com/iainaitken/takeaway-challenge).
+
+##### 1.4 I can model anything
+
+[Modelling workshop](https://github.com/makersacademy/skills-workshops/tree/master/object_oriented_programming/domain_model_diagramming)
+
+Practised modelling with the [weekend challenge](https://github.com/iainaitken/takeaway-challenge).
+
+##### 1.5 I can refactor anything
+
+Extensive refactoring practice throughout the week with oystercard; learned about refactoring patterns (extract variable, method and class).
+
+Need more practice with this.
+
+#### 2. I'm equipped for long-term growth
+
+##### 2.1 I manage my own wellbeing
+
+Continuing to exercise regularly and eat healthily; was better this week at not working all through the weekend.
+
+##### 2.2 I can learn anything by myself
+
+Made progress with the udemy Rspec course; see also [takeaway](https://github.com/iainaitken/takeaway-challenge), in particular learning how to integrate Twilio into a project.
+
+#### 3. I help my teams succeed
+
+##### 3.2 I write code that is easy to change
+
+Learning how to use concepts such as dependency injection to write code that is easy to change; making more of an effort to avoid hard-coding in the test suite.
+
+##### 3.4 I grow collaboratively
+
+5 pair programming sessions completed this week, with good [feedback](https://github.com/iainaitken/makers-course/blob/main/feedback.md).
 
 ### Week 3
 
