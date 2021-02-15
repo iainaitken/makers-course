@@ -1,4 +1,4 @@
-# Week 2, Day X
+# Week 3, Day X
 ## Subtitle
 
 ### Links
@@ -7,6 +7,7 @@
 * [Knowledge Pills](https://github.com/makersacademy/course/blob/master/pills.md)
 * [The Escalation Process](https://github.com/makersacademy/course/blob/29a5e4a3c1776d32eda8f3ee55edc1dd124b05ba/pills/escalation_process.md)
 * [Feedback form](https://docs.google.com/forms/d/1dr6yUt7M2HJyDEnMoqjuNpew3mUgFQUp79WQbT7wv68/edit)
+* [Timetable](https://airtable.com/shr9ia7PTZfhGxXQa/tblU9M74TCpg89oGC)
 
 ### Goals for the week/day
 
@@ -18,14 +19,12 @@
 
 [SMART Goals](https://docs.google.com/document/d/1Tcw_8OuOSXArP8Wr7X1jywWDV8NW_LzYmFawUCBYIZ8/edit)
 
-By the end of week 2, all developers should be able to:
+By the end of week 3, all developers should be able to:
 
-* Use all of week 1's skills (don't underestimate the importance of this)
-* Break one class into two classes that work together, while maintaining test coverage
-* Unit test classes in isolation using mocking
-* Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
-* Review another person's code and give them meaningful feedback
-
+* Build a simple web app
+* Follow an effective debugging process for web applications
+* Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+* Explain the MVC pattern
 
 ---
 
