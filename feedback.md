@@ -96,4 +96,20 @@ _What could I do better?_
 
 > In the spirit of TDD, I think we should have stuck to the unit test, red, green, refactor process more. What we seemed to have done may have been the opposite which was code, feature test, unit test. Saying that, I think it has been challenging for us to come up with the appropriate tests for some methods using doubles so we were just doing the best with what we could.
 
+__12 February - feedback from Hannah__
+
+_What did I do well?_
+
+> You were very patient and encouraging, and supported me with reading the error messages more thoroughly from the bottom of the stack trace.
+
+_What could I do better?_
+
+> I think maybe taking the driver seat for a little bit just to give my brain a little bit of a break could have helped, but also it was useful for me to do more of the driving. Not much to give you for this question I'm afraid!
+
 ### Takeaway
+
+__Feedback from coach__
+
+
+
+__Feedback from [name]__
