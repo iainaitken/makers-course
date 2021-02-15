@@ -8,9 +8,9 @@
 
 ### Introduction
 
-This is my learning journey at Makers Academy. 
+This is my learning journey at Makers Academy.
 
-This repo contains my course notes, useful materials, projects worked on during my time at Makers and the processes I have learnt and developed while working towards the course goals below. 
+This repo contains my course notes, useful materials, projects worked on during my time at Makers and the processes I have learnt and developed while working towards the course goals below.
 
 My up-to-date CV can be found [here](https://github.com/iainaitken/CV).
 
@@ -36,7 +36,8 @@ My up-to-date CV can be found [here](https://github.com/iainaitken/CV).
 
 ### Projects
 
-to do - links to projects
+[Week 2 weekend challenge - Takeaway](https://github.com/iainaitken/takeaway-challenge)
+[Week 1 Weekend Challenge - Airport](https://github.com/iainaitken/airport_challenge)
 
 ### Skills
 
