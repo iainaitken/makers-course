@@ -110,6 +110,49 @@ _What could I do better?_
 
 __Feedback from coach__
 
+> I see an attribute reader and these public methods as achieving equal levels of encapsulation in the class since instance variables are only accessible by the public attribute readers and can't be changed by other classes (since they would only be attribute readers and not accessors). What aspect of encapsulation do you see as being strengthened by returning duplicates of the attributes?
+
+> Really cool to read about your approach to the challenge!
+
+> Something like dishes is a more descriptive name for this instance variable
+
+> Having the check method return either a custom symbol like :unavailable or the Dish instance makes code that calls this method a bit challenging to reason about since anyone who uses this method will have to remember that different types will be returned depending on the dish.
+>
+> Rather than having one method do both of:
+>
+> checking if the dish is available on the menu
+finding the corresponding Dish instance
+we could divide these responsibilities into two methods so that:
+>
+> returns a symbol such as :available, :unavailable, or :not_on_menu
+returns a Dish instance or nil if that dish isn't on the menu
+
+> Nice use of private methods!
+
+> Nice use of dependency injection!
+
+> Nice job isolating these unit tests from the actual Dish, Calculator and Texter classes
+
+> We should also check that add works correctly in the good case scenario that a dish is available and on the menu
+
+__Feedback from Ed__
+
+>* Code was well-considered and logical.
+>
+>* The decisions I made when planning were well-informed.
+>
+>* Good use of SRP
+>
+>* Descriptive words for the variables in rspec
+>
+>* Code was clean and quite easy to follow.
+>
+>* Wondered whether there was too much code given there was only 4 user stories?
+
+## Week 3
+
+### Battle
 
 
-__Feedback from [name]__
+
+### RPS
