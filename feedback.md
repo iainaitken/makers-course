@@ -153,6 +153,14 @@ __Feedback from Ed__
 
 ### Battle
 
+__17 February - feedback from Charlie__
 
+_What did I do well?_
+
+> Great communication. I enjoyed going through our paths leading up to makers and a bit about future intentions job/learning wise. I thought the way you explained how each part of the code was working was thorough and useful for understanding each step.
+
+_What could I do better?_
+
+> The webcam audio quality was poor so it would have been nice to have clearer sound but you were aware of that! 
 
 ### RPS
