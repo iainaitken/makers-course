@@ -161,6 +161,45 @@ _What did I do well?_
 
 _What could I do better?_
 
-> The webcam audio quality was poor so it would have been nice to have clearer sound but you were aware of that! 
+> The webcam audio quality was poor so it would have been nice to have clearer sound but you were aware of that!
+
+__19 February - feedback from Raf__
+
+_What did I do well?_
+
+> Took me through everything step by step, explained everything very clearly, and was also very patient!
+
+_What could I do better?_
+
+> Not much
 
 ### RPS
+
+__Feedback from Coach__
+
+> Nice job getting rid of global variables!
+
+> This is a neat way of calculating the result
+
+> Can these lines can be replaces with a default value in the initialize input parameter?
+def initialize(name = "Computer")
+
+> The strings 'rock', 'paper', and 'scissors' appear both in this class and in the Calculator class. Rather than having these strings floating around, we could create constants for each of these strings in one place and use that constant in all the places we need that string. This would eliminate the chance that a typo in one of the strings in one of the classes breaks the logic of the game
+
+> Should we also assert that the correct winner is declared on this page?
+
+## Week 4
+
+### Bookmark Manager
+
+__23 February - feedback from Aniruddh__
+
+_What did I do well?_
+
+> You were very fun to hang out with for the pairing session. A good mix of work and chat. Your explanations and pacing were good too.
+
+_What could I do better?_
+
+> I suppose we could have had more frequent breaks as I was getting a little frazzled during the middle. Apart from that, everything else was good!
+
+### Chitter
