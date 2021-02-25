@@ -190,7 +190,57 @@ Learning how to use concepts such as dependency injection to write code that is 
 
 ### Week 3
 
+#### 1. I can make anything
 
+Main focus for this week was [Battle](https://github.com/iainaitken/battle_2) and [RPS](https://github.com/iainaitken/rps-challenge).
+
+##### 1.1 I can TDD anything
+
+Great progress on this - I completed both Battle and RPS. I have a way to go before I can do this without referring to course materials, but I did successfully complete the weekend challenge, including one of the bonus user stories.
+
+I do need much more practice with HTML and CSS - i.e. the front end.
+
+##### 1.2 I can program fluently
+
+Feedback from the weekend challenge was that my code is clean and easy to read; I am definitely making progress towards this goal.
+
+##### 1.3 I can debug anything
+
+Plenty of practice with this throughout the week - successfully debugged every issue that cropped up.
+
+##### 1.4 I can model anything
+
+Modelling still needs a lot of work, but I did practice modelling on the weekend challenge.
+
+##### 1.5 I can refactor anything
+
+As usual, the work during the afternoon pairing sessions involved significant refactoring.
+
+However, I am pleased with my work on RPS as I first attempted it and then refactored once I'd looked again at the final few lessons of Battle. This meant my code needed significant refactoring, but I did this successfully and then refactored again to make the game multiplayer.
+
+##### 1.6 I have a methodical approach to solving problems
+
+Steadily improving here; I force myself to stop and methodically review steps to date to check understanding and find bugs.
+
+#### 2. I'm equipped for long-term growth
+
+##### 2.1 I manage my own wellbeing
+
+Need to work on this, in particular setting aside time for myself at the weekend.
+
+##### 2.2 I can learn anything by myself
+
+Still improving RSpec skills through the udemy course, and generally improving my overall web development knowledge.
+
+#### 3. I help my teams succeed
+
+##### 3.2 I write code that is easy to change
+
+See 1.5 above.
+
+##### 3.4 I grow collaboratively
+
+Worked with others on the pair programming sessions, including two sessions where my pair was significantly behind. I helped
 
 ### Week 4
 
