@@ -188,6 +188,43 @@ def initialize(name = "Computer")
 
 > Should we also assert that the correct winner is declared on this page?
 
+__Feedback from Mentor, Javi__
+
+> You readme is excellent, you explain the process and instruction on how to run your repo, well done.
+>
+> Like the structure of you app.rb file, the code looks very clean and not longer than 5 inner lines.
+>
+> Extra point for the calculator class… that an excellent way to check results.
+>
+> I think you code is very neat and easy to read.
+>
+> I will recommend to check  the structure of your erb files, it is the same structure as an HTML
+
+```html
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+```
+> You can create a test.html file and type “doc” and the enter, should give you and structure go the html file. And the you can copy and paste into the erb files, keep this html test file to check for other tags (that’s what I do)
+>
+> Inputs tag shouldn’t be within a label tag and inputs are self-closing tags
+
+```html
+<label for="name">First name:</label>
+ <input type="text" id="name" name="name" />
+```
+> Text shouldn’t be floating on its own, should be in a p tag, span, etc. as divs are boxes where you can put anything in there your text won’t have its own tag.
+>
+> You could implement a bit or CSS so you get familiar to it.
+>
+> Overall I think you code is excellent… 10/10
+
 ## Week 4
 
 ### Bookmark Manager
@@ -201,5 +238,15 @@ _What did I do well?_
 _What could I do better?_
 
 > I suppose we could have had more frequent breaks as I was getting a little frazzled during the middle. Apart from that, everything else was good!
+
+__23 February - feedback from Jai__
+
+_What did I do well?_
+
+> The session was interactive and we were both able to play around and deepen our understanding.
+
+_What could I do better?_
+
+> Not answered
 
 ### Chitter
