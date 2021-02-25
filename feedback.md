@@ -249,4 +249,14 @@ _What could I do better?_
 
 > Not answered
 
+__23 February - feedback from Laura__
+
+_What did I do well?_
+
+> Navigated well - I really like the way you ask questions rather than just telling the answer.  I felt confident to ask you to explain things when I didn't understand because you come across really non-judgemental and very encouraging which is an excellent quality in a pair partner. Thanks for a great session!
+
+_What could I do better?_
+
+> We probably should've remembered to take more breaks as we only had one break in 3.5 hours
+
 ### Chitter
