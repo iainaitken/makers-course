@@ -14,7 +14,13 @@
 
 ### Nouns/verbs
 
+Nouns:
 
+* 
+
+Verbs:
+
+* 
 
 ## Class Diagram
 

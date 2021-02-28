@@ -26,6 +26,7 @@ In the Gemfile:
 source 'https://rubygems.org
 
 gem 'sinatra'
+gem 'coveralls'
 gem 'capybara', group: test
 gem 'rspec', group: test
 gem 'rubocop', require: false
@@ -160,6 +161,7 @@ To add a coveralls badge to the readme, add the following to the spec_helper.rb 
 
 ```ruby
 require 'coveralls'
+Coveralls.wear!
 ```
 
 Then add the repo at [the coveralls website](https://coveralls.io/).
@@ -213,11 +215,13 @@ Gemfile
 ```ruby
 source 'https://rubygems.org
 
-* gem 'sinatra'
-* gem 'capybara', group: test
-* gem 'rspec', group: test
-* gem 'rubocop', require: false
-* gem 'simplecov', require: false, group: test
+gem 'sinatra'
+gem 'coveralls'
+gem 'pg'
+gem 'capybara', group: test
+gem 'rspec', group: test
+gem 'rubocop', require: false
+gem 'simplecov', require: false, group: test
 ```
 
 app.rb
@@ -248,6 +252,7 @@ spec_helper.rb
 ```ruby
 require 'simplecov'
 require 'coveralls'
+Coveralls.wear!
 
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
   SimpleCov::Formatter::HTMLFormatter,
@@ -264,7 +269,7 @@ require 'capybara'
 require 'capybara/rspec'
 require 'rspec'
 
-Capybara.app = BookmarkManager
+Capybara.app = [insert name of app here]
 ```
 
 .gitignore
