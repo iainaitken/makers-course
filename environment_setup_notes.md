@@ -4,7 +4,7 @@
 
 ---
 
-## Webapp using Ruby and Sinatra
+## Database-enabled Webapp using Ruby, Sinatra and PSQL. Testing framework is RSpec/Capybara
 
 [Link to complete file syntax](#complete-file-syntax)
 
