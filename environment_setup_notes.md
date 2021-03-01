@@ -204,6 +204,32 @@ Then, we need to tell the test suite to pick the test database. In the spec_help
 ENV['ENVIRONMENT'] = 'test'
 ```
 
+We need to set up and clear the test database. In spec/setup_test_database.rb:
+
+```ruby
+require 'pg'
+
+connection = PG.connect(dbname: 'bookmark_manager_test')
+
+connection.exec("TRUNCATE bookmarks;")
+```
+
+We need to run the above command before each test, so in spec_helper.rb:
+
+```ruby
+require_relative './setup_test_database'
+
+ENV['ENVIRONMENT'] = 'test'
+
+RSpec.configure do |config|
+  config.before(:each) do
+    setup_test_database
+  end
+end
+```
+
+Finally, we need to require PG in our spec_helper file.
+
 ---
 
 ### Complete File Syntax
@@ -268,14 +294,33 @@ require File.join(File.dirname(__FILE__), '..', 'app.rb')
 require 'capybara'
 require 'capybara/rspec'
 require 'rspec'
+require 'pg'
+
+require_relative './setup_test_database'
 
 Capybara.app = [insert name of app here]
+
+RSpec.configure do |config|
+  config.before(:each) do
+    setup_test_database
+  end
+end
 ```
 
 .gitignore
 
 ```bash
 echo "coverage" >> .gitignore
+```
+
+spec/setup_test_database.rb
+
+```ruby
+require 'pg'
+
+connection = PG.connect(dbname: 'bookmark_manager_test')
+
+connection.exec("TRUNCATE bookmarks;")
 ```
 
 README.md
