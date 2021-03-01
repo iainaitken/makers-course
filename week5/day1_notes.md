@@ -94,8 +94,25 @@ We will adapt to changes when ever they happen.
 
 XP has a detailed set of rules (see above) that shape the development process.
 
+### Agile programming
+
+Constantly developing product, start with basics and constantly iterate over it, increasing functionality over time.
+
+A Sprint is an effort to get some product up and running.
+
+Agile workflow:
+
+1. Sprint planning
+   1. Prioritising and estimating
+2. Daily stand ups - 15 mins max
+   1. What did I do
+   2. What will I do
+   3. Blockers? Is there another member of the team that can help with the block that day?
+3. Retros
+
+Git workflow - this week we will look at branching, merging etc. Create pull request, other devs review code, I update code, once ready then merge pull request.d
+
 ---
 
 ## Reflection
-
 

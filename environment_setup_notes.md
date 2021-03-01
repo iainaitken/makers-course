@@ -241,13 +241,18 @@ Gemfile
 ```ruby
 source 'https://rubygems.org
 
+ruby '[version]'
+
 gem 'sinatra'
-gem 'coveralls'
 gem 'pg'
-gem 'capybara', group: test
-gem 'rspec', group: test
-gem 'rubocop', require: false
-gem 'simplecov', require: false, group: test
+
+group :test do
+  gem 'capybara'
+  gem 'rspec'
+  gem 'rubocop', require: false
+  gem 'coveralls', require: false
+  gem 'simplecov', require: false
+end
 ```
 
 app.rb
