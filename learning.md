@@ -244,7 +244,51 @@ Worked with others on the pair programming sessions, including two sessions wher
 
 ### Week 4
 
+The goals for week 4 were:
 
+* Build a simple web app with a database
+* Follow an effective debugging process for database applications
+* Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables)
+
+I feel that I have met these goals, although I did not get to learn or practice incorporating the ability for a user to sign up to/log in/log out of a web app.
+
+#### 1. I can make anything
+
+##### 1.1 I can TDD anything
+
+See [chitter challenge](https://github.com/iainaitken/chitter-challenge) - a simple web app. See also count sinatra. I need to work on front-end styling and user logins. I followed TDD protocols when building the app and achieved ~98% test coverage (only two lines weren't covered, and those were the lines that choose the development database and so can't be tested in the test suite?)
+
+##### 1.2 I can program fluently
+
+I found SQL this week to be very easy to pick up, and I feel that I can fluently program SQL commands. I need practice with more advanced SQL syntax.
+
+##### 1.3 I can debug anything
+
+Some practice debugging in the afternoon challenges; also successfully solved all bugs in the weekend challenge.
+
+##### 1.4 I can model anything
+
+Need more practice with modelling, although did learn about CRC cards this week, and practised using those on the weekend challenge.
+
+##### 1.5 I can refactor anything
+
+Some practice refactoring during the afternoon challenges.
+
+#### 2. I'm equipped for long-term growth
+
+##### 2.1 I manage my own wellbeing
+
+Kept aside one day for me this weekend, at the expense of not completing the weekend challenge.
+
+#### 3. I help my teams succeed
+
+##### 3.2 I write code that is easy to change
+
+Making progress towards this goal. My weekend challenge code was easy to change and refactor where necessary.
+
+##### 3.4 I grow collaboratively
+
+Helped colleagues during the afternoon challenges.
 
 ### Week 5
 
