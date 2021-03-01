@@ -39,18 +39,20 @@ __8 February - Feedback from mentor, Javier__
 > Like you die on the the weather method, you could have and array of the the possible weather and with using .sample() will return a random value instead of making a case statements.
 >
 > When you have many possible IF statements in one method I will suggest to use an IF-ELSE statements, using only IF could have conflicts as e.g. Two if statements met the conditions in different values, so with a IF-ELSE you can track where your condition met the requirements.
-> * Like the way you implemented DOUBLES, well done
-> * Not sure if you are checking when the weather is stormy, no to take off
-> * Not sure if you are testing for the space of the hangar
-> * Use described_class for a better adaptable code
+>
+> - Like the way you implemented DOUBLES, well done
+> - Not sure if you are checking when the weather is stormy, no to take off
+> - Not sure if you are testing for the space of the hangar
+> - Use described_class for a better adaptable code
 >
 > Overall I think you code is really neat and your tests are really good, excellent for being your first weekend challenge. I am really impressed about the readme, well explained the situation and you are right, you could have another class that could have the weather only. Delete spaces you don’t need and/or not relevant comments. Excelente!!!
 
 __8 February - Feedback from Rorie__
 
-> * Code was readable
-> * Code was neat
-> * Try to minimise code if possible.
+> - Code was readable
+>
+> - Code was neat
+> - Try to minimise code if possible.
 
 ## Week 2
 
@@ -137,17 +139,17 @@ returns a Dish instance or nil if that dish isn't on the menu
 
 __Feedback from Ed__
 
->* Code was well-considered and logical.
+>- Code was well-considered and logical.
 >
->* The decisions I made when planning were well-informed.
+>- The decisions I made when planning were well-informed.
 >
->* Good use of SRP
+>- Good use of SRP
 >
->* Descriptive words for the variables in rspec
+>- Descriptive words for the variables in rspec
 >
->* Code was clean and quite easy to follow.
+>- Code was clean and quite easy to follow.
 >
->* Wondered whether there was too much code given there was only 4 user stories?
+>- Wondered whether there was too much code given there was only 4 user stories?
 
 ## Week 3
 
@@ -211,6 +213,7 @@ __Feedback from Mentor, Javi__
 </body>
 </html>
 ```
+
 > You can create a test.html file and type “doc” and the enter, should give you and structure go the html file. And the you can copy and paste into the erb files, keep this html test file to check for other tags (that’s what I do)
 >
 > Inputs tag shouldn’t be within a label tag and inputs are self-closing tags
@@ -219,6 +222,7 @@ __Feedback from Mentor, Javi__
 <label for="name">First name:</label>
  <input type="text" id="name" name="name" />
 ```
+
 > Text shouldn’t be floating on its own, should be in a p tag, span, etc. as divs are boxes where you can put anything in there your text won’t have its own tag.
 >
 > You could implement a bit or CSS so you get familiar to it.
