@@ -232,6 +232,12 @@ Finally, we need to require PG in our spec_helper file.
 
 ---
 
+### Setting up Sinatra Flash
+
+https://gist.github.com/cmkoller/0d3b048b3c4b48ee4955
+
+---
+
 ### Complete File Syntax
 
 Remember to add the repo at [Code Climate](https://codeclimate.com/profile/github_link) and [Coveralls](https://coveralls.io/).
@@ -239,19 +245,24 @@ Remember to add the repo at [Code Climate](https://codeclimate.com/profile/githu
 Gemfile
 
 ```ruby
-source 'https://rubygems.org
+source 'https://rubygems.org'
 
 ruby '[version]'
 
-gem 'sinatra'
-gem 'pg'
+group :development do
+  gem 'pg'  
+  gem 'sinatra'
+  gem 'sinatra-flash' # check this one
+end
 
 group :test do
   gem 'capybara'
+  gem 'launchy' # check this one
   gem 'rspec'
-  gem 'rubocop', require: false
-  gem 'coveralls', require: false
+  gem 'rubocop', '0.79.0'
+  gem 'coveralls', require: false # check this one
   gem 'simplecov', require: false
+  gem 'simplecov-console', require: false # check this one
 end
 ```
 
@@ -262,7 +273,7 @@ require 'sinatra/base'
 
 class [insert name of app here (in camelcase)] < Sinatra::Base
   enable :method_override
-  
+  enable :sessions
 
   run! if app_file == $0
 end
@@ -281,8 +292,20 @@ run [insert name of app here]
 spec_helper.rb
 
 ```ruby
-require 'simplecov'
+ENV['RACK_ENV'] = 'test'
+ENV['ENVIRONMENT'] = 'test'
+
+require_relative './setup_test_database'
+require File.join(File.dirname(__FILE__), '..', 'app.rb')
+
+require 'capybara'
+require 'capybara/rspec'
 require 'coveralls'
+require 'pg'
+require 'rspec'
+require 'simplecov'
+require 'simplecov-console'
+
 Coveralls.wear!
 
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
@@ -290,18 +313,6 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
   Coveralls::SimpleCov::Formatter
 ]
 SimpleCov.start
-
-ENV['RACK_ENV'] = 'test'
-ENV['ENVIRONMENT'] = 'test'
-
-require File.join(File.dirname(__FILE__), '..', 'app.rb')
-
-require 'capybara'
-require 'capybara/rspec'
-require 'rspec'
-require 'pg'
-
-require_relative './setup_test_database'
 
 Capybara.app = [insert name of app here]
 
@@ -318,14 +329,51 @@ end
 echo "coverage" >> .gitignore
 ```
 
+lib/db_connection.rb
+
+```ruby
+require 'pg'
+
+class DBConnection
+
+  def self.setup(database)
+    @connection = PG.connect(dbname: database)
+  end
+
+  def self.query(query)
+    @connection.exec(query)
+  end
+
+  def self.connection
+    @connection
+  end
+end
+```
+
+
 spec/setup_test_database.rb
 
 ```ruby
 require 'pg'
 
-connection = PG.connect(dbname: 'bookmark_manager_test')
+def setup_test_database
 
-connection.exec("TRUNCATE bookmarks;")
+  DBConnection.setup('[insert name of test database]')
+
+  DBConnection.query("TRUNCATE [insert name of table] [CASCADE - note - use this if there are linked tables that also need to be truncated;")
+
+end
+```
+
+layout.erb
+
+```ruby
+<% flash.keys.each do |type| %>
+  <div data-alert class="flash <%= type %> alert-box radius">
+    <%= flash[type] %>
+    <a href="#" class="close">&times;</a>
+  </div>
+<% end %>
 ```
 
 README.md
