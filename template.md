@@ -1,7 +1,6 @@
-# Week 3, Day X
-## Subtitle
+# Week 7, Day X
 
-### Links
+## Links
 
 * [Week outlines](https://github.com/makersacademy/course/blob/master/week_outlines.md)
 * [Knowledge Pills](https://github.com/makersacademy/course/blob/master/pills.md)
@@ -9,7 +8,7 @@
 * [Feedback form](https://docs.google.com/forms/d/1dr6yUt7M2HJyDEnMoqjuNpew3mUgFQUp79WQbT7wv68/edit)
 * [Timetable](https://airtable.com/shr9ia7PTZfhGxXQa/tblU9M74TCpg89oGC)
 
-### Goals for the week/day
+## Goals for the week/day
 
 [Airtable: TDD & OOD](https://airtable.com/shrr9VqhGBzPyfa7E/tblokmw6yNUO75ge6)
 
@@ -19,16 +18,13 @@
 
 [SMART Goals](https://docs.google.com/document/d/1Tcw_8OuOSXArP8Wr7X1jywWDV8NW_LzYmFawUCBYIZ8/edit)
 
-By the end of week 3, all developers should be able to:
+By the end of week 7, all developers should be able to:
 
-* Build a simple web app
-* Follow an effective debugging process for web applications
-* Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-* Explain the MVC pattern
+* 
 
 ---
 
-### Notes
+## Notes
 
 text
 
