@@ -243,7 +243,7 @@ _What could I do better?_
 
 > I suppose we could have had more frequent breaks as I was getting a little frazzled during the middle. Apart from that, everything else was good!
 
-__23 February - feedback from Jai__
+__24 February - feedback from Jai__
 
 _What did I do well?_
 
@@ -253,7 +253,7 @@ _What could I do better?_
 
 > Not answered
 
-__23 February - feedback from Laura__
+__25 February - feedback from Laura__
 
 _What did I do well?_
 
@@ -264,3 +264,51 @@ _What could I do better?_
 > We probably should've remembered to take more breaks as we only had one break in 3.5 hours
 
 ### Chitter
+
+## Week 5
+
+Worked on group project (Makers bnb) throughout the week.
+
+### Weekend challenge - bowling
+
+> Hi Iain, Alex A here :)
+> 
+> I absolutely love your score display, and I think you've done really good work here.
+> 
+> As I believe you identified yourself, this is a little over-engineered - you didn't need all of these classes. That said, in different circumstances all of them could have been entirely appropriate. I think this additional weight is also really evident in the game class - with fewer classes I think you would also see opportunities in the game class to refactor and simplify it.
+>
+>You also missed some opportunities in your display class to make things simpler and more readable. That's not major - it's well encapsulated and isolated, but I still think it's worth mentioning.
+>
+> All in all, this is really good work. You identified the broad issues yourself and that's an important part of your ability to resolve them yourself and write better code in the long run.
+
+Regarding the Bowl class:
+
+> This class seems just to wrap a number. That's something which would be a positive in some languages, but in Ruby I don't think it's really beneficial, and it does make it a little more awkward to work with.
+> 
+> I'd suggest that this class should either have responsibility for knowing the limits: 0 <= pins <= 10 or you should just use the number of pins directly.
+
+Regarding the Display class:
+
+> This method is hard to follow. I really love the output from this class, and I'd be in favour of keeping the class and the output, but I'd see if you can refactor this method to maybe use an array of frames, and have a simple template* for how you then display a frame (or absent frame). I expect frame 10 would need a special case, but I think you could make that really straightforward.
+> 
+> *this could be string interpolation, like displayed_frame_pins = "|#{display_pins(frame)}|, "
+
+Regarding the Error class:
+
+> While separating validation is common practice in some places, I don't recommend it personally. Pushing these responsibilities to the user interface or to the places the information is owned (e.g. the bowl class or the frame class) might enable you to handle these more gracefully, rather than raising exceptions.
+
+Regarding the Frame class:
+
+> This class doesn't do very much, and I'd be tempted to merge it with the FrameScore class. This is a scorecard, so I feel the only model we really need for a frame is a model around scoring.
+
+## Week 6
+
+__9 March - Feedback from Nico__
+
+_What did I do well?_
+
+> Very methodical approach to each problem which works well deconstructing them and remove the "fear" factor of looking at a too big picture. Also positive attitude in trial and error, instead of just going for one syntax, you try different ones to push your understanding.
+
+_What could I do better?_
+
+> I dont think I got any complaints for you... maybe keeping a better eye on time for breaks (that goes for me too)~~~~
