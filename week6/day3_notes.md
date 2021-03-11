@@ -1,4 +1,4 @@
-# Week 6, Day 2
+# Week 6, Day 3
 
 ## Links
 
