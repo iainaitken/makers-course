@@ -69,10 +69,36 @@ Flow of control is the order in which each operation is evaluated.
 
 ---
 
-### [Encapsulation with the constructor and prototype pattern](https://github.com/makersacademy/skills-workshops/tree/master/javascript_fundamentals/encapsulation_with_constructor_and_prototype_pattern)
+### jQuery
+
+jQuery selectors allow you to select and manipulate HTML elements. They find those elements based on their name, id, classes, types, attributes etc.
+
+For example:
+
+```javascript
+$("p")
+```
+
+The above selector will select all paragraphs in the HTML document.
+
+```javascript
+$( document ).ready()(function() { {})
+```
+
+The above code detects when the webpage is "ready" - i.e. when it can be safely manipulated. This is when the DOM has been loaded. $() is shorthand for this, but it is best to use longhand.
+
+```javascript
+$( window ).on( "load", function() { ... })
+```
+
+The above code waits a little longer than the DOM to be loaded - this waits until the entire page (inc. images or iframes) has been loaded.
+
+Event listeners wait for an event to occur; when they detect that it has occurred, then they run a bit of code.
+
+Callbacks allow you to pass a function to another function and store it, so that it can be run later.
 
 
-
+ 
 ---
 
 ### Reflection
