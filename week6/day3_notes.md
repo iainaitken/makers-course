@@ -59,7 +59,7 @@ Return to these questions each day to check your understanding.
 
 ### This in Javascript
 
-[Link to artcile](https://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+[Link to article](https://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
 We use 'this' similar to how we use pronouns in English - 'he' instead of 'John', for example:
 

@@ -20,7 +20,9 @@
 
 By the end of week 7, all developers should be able to:
 
-* 
+* I can build a frontend single-page app using only pure Javascript.
+* I can request and use data from an external API.
+* I can explain that libraries are made of ordinary code that I could write myself if I needed to.
 
 ---
 
