@@ -50,7 +50,8 @@ What does a testing framework need to do?
 * tell us if we fail
 ---
 example test
----
+
+```javascript
 function sum(a, b) {
     return a + b;
 }
@@ -70,6 +71,25 @@ if (5 === sum(2, 3)) {
 } else {
     console.log(“U lose :(“)
 }
+```
+
+---
+
+Notes on week challenge:
+
+[link to repo](https://github.com/makersacademy/course/blob/master/further_javascript/notes_app_user_stories.md)
+
+* Create notes app from 4 user stories (with an extra stretch user story)
+* JS only, no frameworks
+* Use [Makers Emojify API](https://makers-emojify.herokuapp.com/) to convert words into emojis. Learn to call an external API using only JS.
+* Check [LocalStorage](https://blog.logrocket.com/localstorage-javascript-complete-guide/#:~:text=localStorage%20is%20a%20property%20that,the%20browser%20window%20is%20closed.) to see how to persist data in the browser, for the stretch user story
+* Deploy the app as a final stretch goal. Probably best to use [Github Pages](https://pages.github.com/)
+
+We have the following guidance:
+
+* [Guidance on building a frontend, single page app](https://github.com/makersacademy/course/blob/master/further_javascript/frontend_single_page_app_guidance.md)
+* [Frontend pill](https://github.com/makersacademy/course/blob/master/pills/frontend_single_page_app.md)
+* [Guidance on testing without a testing library](https://github.com/makersacademy/course/blob/master/pills/writing_tests_without_a_testing_library.md)
 
 ---
 
