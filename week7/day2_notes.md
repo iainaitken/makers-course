@@ -20,7 +20,9 @@
 
 By the end of week 7, all developers should be able to:
 
-* 
+* I can build a frontend single-page app using only pure Javascript.
+* I can request and use data from an external API.
+* I can explain that libraries are made of ordinary code that I could write myself if I needed to.
 
 ---
 
@@ -93,7 +95,41 @@ function it(label, callback) {
 }
 ```
 
-This will in turn raise an error as .toEqual is not a property that can be called on undefined.
+This will in turn raise an error as .toEqual is not a property that can be called on undefined. We need to create an object 'expect' that has a property 'toEqual'.
+
+```javascript
+function expect() {
+  return {
+    toEqual: function(){}  
+  }
+}
+
+function it(label, callback) {
+  console.log(`Test: ${label}`)
+  callback()
+}
+```
+
+Further iteration gives us this:
+
+```javascript
+function expect(a) {
+  return {
+    toEqual: function(b){
+      if (a === b) {
+        console.log("Pass")
+      } else {
+        console.log("Fail")
+      }
+    }  
+  }
+}
+
+function it(label, callback) {
+  console.log(`Test: ${label}`)
+  callback()
+}
+```
 
 ---
 
