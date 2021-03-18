@@ -6,6 +6,14 @@
 - [ ] Make more professional-looking - Travis, Coveralls, Rubocop etc
 - [ ] README
 
+## Note app
+
+- [ ] Refactor - tidy up logic, taking into account localStorage. Only create note once text is stored?
+- [ ] Add clear all notes and delete note buttons
+- [ ] Styling
+- [ ] Deploy to Github Pages
+- [ ] Update README
+
 ## Thermostat
 
 - [ ] Add UI
