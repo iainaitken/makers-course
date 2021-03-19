@@ -8,25 +8,25 @@
 
 [Progress Insight](https://github.com/makersacademy/course/blob/master/goals/progress_insight.md)
 
-#### 1. I can make anything
-##### 1.1 I can TDD anything
-##### 1.2 I can program fluently
-##### 1.3 I can debug anything
-##### 1.4 I can model anything
-##### 1.5 I can refactor anything
-##### 1.6 I have a methodical approach to solving problems
-
-#### 2. I'm equipped for long-term growth
-##### 2.1 I manage my own wellbeing
-##### 2.2 I can learn anything by myself
-
-#### 3. I help my teams succeed
-##### 3.1 I use an agile product development process
-##### 3.2 I write code that is easy to change
-##### 3.3 I can justify the way I work
-##### 3.4 I grow collaboratively
+1. I can make anything
+   1. I can TDD anything
+   2. I can program fluently
+   3. I can debug anything
+   4. I can model anything
+   5. I can refactor anything
+   6. I have a methodical approach to solving problems
+2. I'm equipped for long-term growth
+   1. I manage my own wellbeing
+   2. I can learn anything by myself
+3. I help my teams succeed
+   1. I use an agile product development process
+   2. I write code that is easy to change
+   3. I can justify the way I work
+   4. I grow collaboratively
 
 ---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ## Starting level
 
@@ -98,6 +98,8 @@ I have a lot of experience of working with, training, and mentoring others and l
 
 ---
 
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
 ## Weekly Progress
 
 ### Week 1
@@ -145,6 +147,8 @@ Independently working through the udemy RSpec course and recording progress [her
 Plenty of opportunities to pair program this week, including outside of the allocated time in the afternoons for this skill. I made an effort to learn how to collaborate on git and try out the driver/navigator style of pair programming.  See the [feedback document](https://github.com/iainaitken/makers-course/blob/main/feedback.md) for feedback received during this week.
 
 ---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ### Week 2
 
@@ -197,6 +201,8 @@ Learning how to use concepts such as dependency injection to write code that is 
 5 pair programming sessions completed this week, with good [feedback](https://github.com/iainaitken/makers-course/blob/main/feedback.md).
 
 ---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ### Week 3
 
@@ -254,6 +260,8 @@ Worked with others on the pair programming sessions, including two sessions wher
 
 ---
 
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
 ### Week 4
 
 The goals for week 4 were:
@@ -304,11 +312,15 @@ Helped colleagues during the afternoon challenges.
 
 ---
 
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
 ### Week 5
 
 
 
 ---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ### Week 6
 
@@ -316,11 +328,15 @@ Helped colleagues during the afternoon challenges.
 
 ---
 
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
 ### Week 7
 
 
 
 ---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ### Week 8
 
@@ -328,11 +344,15 @@ Helped colleagues during the afternoon challenges.
 
 ---
 
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
 ### Week 9
 
 
 
 ---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ### Week 10
 
@@ -340,16 +360,22 @@ Helped colleagues during the afternoon challenges.
 
 ---
 
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
 ### Week 11
 
 
 
 ---
 
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
 ### Week 12
 
 
 
 ---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ## End of Course
