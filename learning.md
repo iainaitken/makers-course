@@ -1,6 +1,8 @@
 # Learning and Reflection
 
-| [Course Goals](#course-goals) | [Starting Level](#starting-level) | [Week 1](#week-1) | [Week 2]() | [Week 3]() | [Week 4]() | [Week 5]() | [Week 6]() | [Week 7]() | [Week 8]() | [Week 9]() | [Week 10]() | [Week 11]() | [Week 12]() | [End of Course](#end-of-course) |
+| [Course Goals](#course-goals) | [Starting Level](#starting-level) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](#week-4) | [Week 5](#week-5) | [Week 6](#week-6) | [Week 7](#week-7) | [Week 8](#week-8) | [Week 9](#week-9) | [Week 10](#week-10) | [Week 11](#week-11) | [Week 12](#week-12) | [End of Course](#end-of-course) |
+
+---
 
 ## Course Goals
 
@@ -23,6 +25,8 @@
 ##### 3.2 I write code that is easy to change
 ##### 3.3 I can justify the way I work
 ##### 3.4 I grow collaboratively
+
+---
 
 ## Starting level
 
@@ -92,6 +96,8 @@ I suspect not.
 
 I have a lot of experience of working with, training, and mentoring others and look forward to using these skills on the course.
 
+---
+
 ## Weekly Progress
 
 ### Week 1
@@ -137,6 +143,8 @@ Independently working through the udemy RSpec course and recording progress [her
 #### I grow collaboratively
 
 Plenty of opportunities to pair program this week, including outside of the allocated time in the afternoons for this skill. I made an effort to learn how to collaborate on git and try out the driver/navigator style of pair programming.  See the [feedback document](https://github.com/iainaitken/makers-course/blob/main/feedback.md) for feedback received during this week.
+
+---
 
 ### Week 2
 
@@ -187,6 +195,8 @@ Learning how to use concepts such as dependency injection to write code that is 
 ##### 3.4 I grow collaboratively
 
 5 pair programming sessions completed this week, with good [feedback](https://github.com/iainaitken/makers-course/blob/main/feedback.md).
+
+---
 
 ### Week 3
 
@@ -242,6 +252,8 @@ See 1.5 above.
 
 Worked with others on the pair programming sessions, including two sessions where my pair was significantly behind. I helped
 
+---
+
 ### Week 4
 
 The goals for week 4 were:
@@ -290,32 +302,54 @@ Making progress towards this goal. My weekend challenge code was easy to change 
 
 Helped colleagues during the afternoon challenges.
 
+---
+
 ### Week 5
 
 
+
+---
 
 ### Week 6
 
 
 
+---
+
 ### Week 7
 
 
+
+---
 
 ### Week 8
 
 
 
+---
+
 ### Week 9
 
 
+
+---
 
 ### Week 10
 
 
 
+---
+
 ### Week 11
 
 
 
+---
+
 ### Week 12
+
+
+
+---
+
+## End of Course
