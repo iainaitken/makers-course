@@ -54,6 +54,8 @@ __8 February - Feedback from Rorie__
 > - Code was neat
 > - Try to minimise code if possible.
 
+---
+
 ## Week 2
 
 ### Oystercard
@@ -150,6 +152,8 @@ __Feedback from Ed__
 >- Code was clean and quite easy to follow.
 >
 >- Wondered whether there was too much code given there was only 4 user stories?
+
+---
 
 ## Week 3
 
@@ -265,6 +269,8 @@ _What could I do better?_
 
 ### Chitter
 
+---
+
 ## Week 5
 
 Worked on group project (Makers bnb) throughout the week.
@@ -301,6 +307,8 @@ Regarding the Frame class:
 
 > This class doesn't do very much, and I'd be tempted to merge it with the FrameScore class. This is a scorecard, so I feel the only model we really need for a frame is a model around scoring.
 
+---
+
 ## Week 6
 
 __9 March - Feedback from Nico__
@@ -313,6 +321,8 @@ _What could I do better?_
 
 > I dont think I got any complaints for you... maybe keeping a better eye on time for breaks (that goes for me too)~~~~
 
+---
+
 ## Week 7
 
 __15 March - Feedback from first Review__
@@ -320,5 +330,29 @@ __15 March - Feedback from first Review__
 _GENERAL FEEDBACK_
 
 > Feedback: Well done with completing your first review session. You have shown really good problem-solving skills and a good familiarity with Ruby. I would just encourage you to consider using a simpler test progression in order to drive the growth of your algorithm and focus a bit less on the implementation details from the beginning and how you assume that you would like the algorithm to work. You could also just try and gather more information about the program from the client in order to have a better overall understanding of how the program might behave.
+
+See pdf for detailed feedback.
+
+---
+
+## Week 8
+
+__26 March - Feedback from second Review__
+
+_GENERAL FEEDBACK_
+
+> Feedback: Well done on getting through your second code review. It was great to see you adopting a simpler test progression that drives small and incremental improvements to your system. It was also great to see you asking about edge cases in the system. While you have improved from your last review, I feel that there is still some degree of improvement to be made. Firstly and most importantly, avoid testing edge cases before core functionality. Additionally, I would like to remind you to use Git as part of your process (once it becomes a habit, it will be much easier to remember). Otherwise, good job and I look forward to seeing future improvements.
+
+See pdf for detailed feedback.
+
+---
+
+## Week 9
+
+__2 April - Feedback from third Review__
+
+_GENERAL FEEDBACK_
+
+>
 
 See pdf for detailed feedback.
