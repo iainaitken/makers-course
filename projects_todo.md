@@ -8,8 +8,8 @@
 
 ## Note app
 
-- [ ] Refactor - tidy up logic, taking into account localStorage. Only create note once text is stored?
-- [ ] Add clear all notes and delete note buttons
+- [x] Refactor - tidy up logic, taking into account localStorage. Only create note once text is stored?
+- [x] Add clear all notes and delete note buttons
 - [ ] Styling
 - [ ] Deploy to Github Pages
 - [ ] Update README
@@ -39,3 +39,26 @@
 - [ ] Complete request functionality
 - [ ] Add email functionality
 - [ ] Add payment facility
+
+## SRT
+
+- [ ] Planning. Consider gems to use:
+  - [ ] Devise for user sign up, authentication etc
+  - [ ] Rubocop
+  - [ ] Simplecov
+  - [ ] Coveralls_reborn
+  - [ ] Timecop?
+  - [ ] pg
+  - [ ] travis
+  - [ ] capybara
+- [ ] Planning. Consider model structure:
+  - [ ] User class
+  - [ ] Tax year class? Attributes would store the relevant data for that tax year
+  - [ ] Calculator class?
+- [ ] Planning. Consider website structure:
+  - [ ] Landing page - sign up or sign in
+  - [ ] Dashboard. Links to tax years with summary of UK residency status.
+  - [ ] Individual tax year page with summary of data for that year (/year/:id).
+  - [ ] New tax year page (/year/new)
+  - [ ] Update tax year page
+  - [ ] Security features - see https://guides.rubyonrails.org/security.html
