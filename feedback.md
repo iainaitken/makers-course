@@ -327,6 +327,8 @@ _What could I do better?_
 
 __15 March - Feedback from first Review__
 
+[Link to recording of review](https://www.youtube.com/watch?v=k0gG_Hp4Phw.)
+
 _GENERAL FEEDBACK_
 
 > Feedback: Well done with completing your first review session. You have shown really good problem-solving skills and a good familiarity with Ruby. I would just encourage you to consider using a simpler test progression in order to drive the growth of your algorithm and focus a bit less on the implementation details from the beginning and how you assume that you would like the algorithm to work. You could also just try and gather more information about the program from the client in order to have a better overall understanding of how the program might behave.
@@ -338,6 +340,8 @@ See pdf for detailed feedback.
 ## Week 8
 
 __26 March - Feedback from second Review__
+
+[Link to recording of review](https://www.youtube.com/watch?v=syewjqPUGGo)
 
 _GENERAL FEEDBACK_
 
@@ -351,8 +355,10 @@ See pdf for detailed feedback.
 
 __2 April - Feedback from third Review__
 
+[Link to recording of review](https://www.youtube.com/watch?v=R5r8I9gm3Pg)
+
 _GENERAL FEEDBACK_
 
->
+> Feedback: There are some real improvements that you are making in terms of test progression as well as adding Git commits to your process. You taking the time to consider what your next step is going to be. There are, however, times where you take some time contemplating your next step even after voicing out valid approaches. Being confident in your decision making often is a result of having a bit more experience. I would suggest that you practice your TDD process a bit more before booking your next session in order to build up that confidence in your decision making.
 
 See pdf for detailed feedback.
