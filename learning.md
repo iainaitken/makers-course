@@ -1,6 +1,6 @@
 # Learning and Reflection
 
-| [Course Goals](#course-goals) | [Starting Level](#starting-level) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](#week-4) | [Week 5](#week-5) | [Week 6](#week-6) | [Week 7](#week-7) | [Week 8](#week-8) | [Week 9](#week-9) | [Week 10](#week-10) | [Week 11](#week-11) | [Week 12](#week-12) | [End of Course](#end-of-course) |
+| [Course Goals](#course-goals) | [Starting Level](#starting-level) | [Week 1](#week-1) | [Week 2](#week-2) | [Week 3](#week-3) | [Week 4](#week-4) | [Week 5](#week-5) | [Week 6](#week-6) | [Week 7](#week-7) | [Week 8](#week-8) | [Week 9](#week-9) | [Week 10](#week-10) | [Week 11](#week-11) | [Week 12](#week-12) | [End of Course](#end-of-course) | [Review Marking](#review-marking)
 
 ---
 
@@ -379,3 +379,25 @@ Helped colleagues during the afternoon challenges.
 <div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
 
 ## End of Course
+
+
+
+---
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
+
+## Review Marking
+
+| Criteria                     | 15 March  | 26 March  | 2 April   | 29 April  |           |           |
+| ---------------------------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| I can TDD anything           | Improving | Steady    | Steady    |           |           |           |
+| I can program fluently       | Steady    | Steady    | Steady    |           |           |           |
+| I can debug anything         | Steady    | Not shown | Steady    |           |           |           |
+| I can model anything         | Steady    | Improving | Steady    |           |           |           |
+| I can refactor anything      | Steady    | Improving | Improving |           |           |           |  
+| Methodical problem-solving   | Improving | Improving | Improving |           |           |           |
+| Agile development process    | Improving | Steady    | Steady    |           |           |           |
+| Code is easy to change       | Improving | Improving | Strong    |           |           |           |
+| I can justify the way I work | Steady    | Steady    | Steady    |           |           |           |
+
+<div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>
