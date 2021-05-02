@@ -390,14 +390,14 @@ Helped colleagues during the afternoon challenges.
 
 | Criteria                     | 15 March  | 26 March  | 2 April   | 29 April  |           |           |
 | ---------------------------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| I can TDD anything           | Improving | Steady    | Steady    |           |           |           |
-| I can program fluently       | Steady    | Steady    | Steady    |           |           |           |
-| I can debug anything         | Steady    | Not shown | Steady    |           |           |           |
-| I can model anything         | Steady    | Improving | Steady    |           |           |           |
-| I can refactor anything      | Steady    | Improving | Improving |           |           |           |  
-| Methodical problem-solving   | Improving | Improving | Improving |           |           |           |
-| Agile development process    | Improving | Steady    | Steady    |           |           |           |
-| Code is easy to change       | Improving | Improving | Strong    |           |           |           |
-| I can justify the way I work | Steady    | Steady    | Steady    |           |           |           |
+| I can TDD anything           | Improving | Steady    | Steady    | __Strong__|           |           |
+| I can program fluently       | Steady    | Steady    | Steady    | Steady    |           |           |
+| I can debug anything         | Steady    | Not shown | Steady    | Steady    |           |           |
+| I can model anything         | Steady    | Improving | Steady    | Steady    |           |           |
+| I can refactor anything      | Steady    | Improving | Improving | Steady    |           |           |  
+| Methodical problem-solving   | Improving | Improving | Improving | Steady    |           |           |
+| Agile development process    | Improving | Steady    | Steady    | __Strong__|           |           |
+| Code is easy to change       | Improving | Improving | __Strong__| Steady    |           |           |
+| I can justify the way I work | Steady    | Steady    | Steady    | Steady    |           |           |
 
 <div style="text-align: right"><a href="#learning-and-reflection">Back to top</a></div>

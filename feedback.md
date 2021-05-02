@@ -362,3 +362,23 @@ _GENERAL FEEDBACK_
 > Feedback: There are some real improvements that you are making in terms of test progression as well as adding Git commits to your process. You taking the time to consider what your next step is going to be. There are, however, times where you take some time contemplating your next step even after voicing out valid approaches. Being confident in your decision making often is a result of having a bit more experience. I would suggest that you practice your TDD process a bit more before booking your next session in order to build up that confidence in your decision making.
 
 See pdf for detailed feedback.
+
+## Post-course
+
+__29 April - Feedback from third Review__
+
+[Link to recording of review](https://www.youtube.com/watch?v=R5r8I9gm3Pg)
+
+_GENERAL FEEDBACK_
+
+> ## Week 9
+
+__2 April - Feedback from third Review__
+
+[Link to recording of review](https://www.youtube.com/watch?v=SOvL1ZoI_bc)
+
+_GENERAL FEEDBACK_
+
+> Feedback: There is a lot of improvement to your process in this review session. You have taken the feedback from previous sessions and applied it to your process quite well. I would just encourage you to practice with similar problems in order to get some experience with what built-in Ruby methods to use for certain types of problems.
+
+See pdf for detailed feedback.

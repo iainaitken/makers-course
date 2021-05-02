@@ -2,6 +2,8 @@
 
 [Ruby/Sinatra](#webapp-using-ruby-and-sinatra)
 
+[Rails](#rails)
+
 ---
 
 ## Database-enabled Webapp using Ruby, Sinatra and PSQL. Testing framework is RSpec/Capybara
@@ -379,3 +381,9 @@ layout.erb
 README.md
 
 | [![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop) | [![Ruby Style Guide](https://img.shields.io/badge/code_style-community-brightgreen.svg)](https://rubystyle.guide) |
+
+---
+
+## Rails
+
+[heroku]

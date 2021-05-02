@@ -3,6 +3,7 @@
 ## Command-line Blackjack
 
 - [ ] Refactor and complete this program
+- [ ] TDD - look into using spies instead of dependency injection (maybe use both as a learning point)
 - [ ] Make more professional-looking - Travis, Coveralls, Rubocop etc
 - [ ] README
 
